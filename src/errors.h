@@ -1,0 +1,12 @@
+//
+// Created by Bot on 31/05/2025.
+//
+
+#ifndef SHODRONE_ERRORS_H
+#define SHODRONE_ERRORS_H
+
+#define PIPE_ERROR 78
+#define FORK_ERROR 77
+
+
+#endif //SHODRONE_ERRORS_H
