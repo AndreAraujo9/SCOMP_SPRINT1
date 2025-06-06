@@ -8,7 +8,7 @@ BIN_DIR = bin
 OBJ_DIR = $(BIN_DIR)/objects
 VERSION ?= 0.0.1
 TARGET = $(BIN_DIR)/$(APP_NAME)_$(VERSION)
-CFLAGS = -Wall -Wextra -pthread -lrt -DAPP_VERSION="\"$(VERSION)\"" -DAPP_NAME="\"$(APP_NAME)\""
+CFLAGS = -Wall -Wextra -pthread -DAPP_VERSION="\"$(VERSION)\"" -DAPP_NAME="\"$(APP_NAME)\""
 
 # Source and object files
 SRCS := $(shell find $(SRC_DIR) -type f -name '*.c')

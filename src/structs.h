@@ -1,7 +1,3 @@
-//
-// Created by Bot on 31/05/2025.
-//
-
 #include <sys/types.h>
 #ifndef SHODRONE_STRUCTS_H
 #define SHODRONE_STRUCTS_H

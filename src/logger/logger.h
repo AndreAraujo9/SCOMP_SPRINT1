@@ -1,7 +1,3 @@
-//
-// Created by Bot on 31/05/2025.
-//
-
 #ifndef SHODRONE_LOGGER_H
 #define SHODRONE_LOGGER_H
 

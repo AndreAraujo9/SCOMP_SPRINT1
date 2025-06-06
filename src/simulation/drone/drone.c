@@ -1,7 +1,3 @@
-//
-// Created by Bot on 31/05/2025.
-//
-
 #include <stdio.h>
 #include <unistd.h>
 #include <signal.h>

@@ -1,6 +1,3 @@
-//
-// Created by Bot on 31/05/2025.
-//
 #include <sys/stat.h>
 #include <sys/types.h>
 #include <errno.h>
